@@ -2,7 +2,7 @@
 
 <br />
 
-**I am a self-taught Full-stack web/mobile developer from India.**
+**I am a self-taught Full-stack web/mobile developer from Indonesian.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <!-- <br />**I have 5+ Years of experience in full-stack web-dev.**-->
@@ -18,7 +18,7 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/coding.stella"><b>@coding.stella</b></a><br/>
+• 📫 Reach me out <a href="https://www.instagram.com/coding.stella"><b>@xterjey</b></a><br/>
 </span>
 
 <br />
